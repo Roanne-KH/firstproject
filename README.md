@@ -1,2 +1,4 @@
 # firstproject
-Sample1
+green 
+yellow 
+purpule
